@@ -24,7 +24,8 @@ Double click on EPG_Merge_IPTVEditor.com.exe
 
 
 How to run EPGMerge on Linux & Mac:
-```Open your terminal and go in EPGMerge by IPTVEditor.com directory.
+```
+Open your terminal and go in EPGMerge by IPTVEditor.com directory.
 Write:
 dotnet EPG_Merge_IPTVEditor.com.dll
 ```
