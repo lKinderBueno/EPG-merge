@@ -1,4 +1,6 @@
 # Multiple EPG XML Source merge for IPTV
+IPTVEditor official link: https://iptveditor.com
+
 Features:
 ```
 - No limits to EPG urls
