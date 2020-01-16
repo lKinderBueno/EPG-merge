@@ -1,4 +1,4 @@
-# Multiple EPG Source merge for IPTV
+# Multiple EPG XML Source merge for IPTV
 Features:
 ```
 - No limits to EPG urls
